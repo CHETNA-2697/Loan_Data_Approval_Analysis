@@ -12,9 +12,9 @@ Traditional loan approval processes are time-consuming, prone to human bias, and
 The goal is to streamline approvals, reduce risk, and enhance decision fairness.
 
 # Key Features
-✅ Cleaned and preprocessed dataset of 4,200+ applicants
-📊 Exploratory Data Analysis (EDA) for insights and feature understanding
-⚙️ Feature engineering including asset consolidation into total_asset_value
+- ✅ Cleaned and preprocessed dataset of 4,200+ applicants
+- 📊 Exploratory Data Analysis (EDA) for insights and feature understanding
+- ⚙️ Feature engineering including asset consolidation into total_asset_value
 
 # Six classification models implemented and tuned:
 
